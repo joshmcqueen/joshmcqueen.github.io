@@ -2,3 +2,4 @@ theme: jekyll-theme-cayman
 title: McQueen Motors
 description: Custom Built Honda Minis
 google_analytics: 185921826
+show_downloads: true
