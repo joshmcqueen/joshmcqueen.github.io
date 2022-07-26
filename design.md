@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Design
+title: McQueen Motors
+description: Design
 ---
 
 ## Design Page
