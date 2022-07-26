@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Another page
-description: This is just another page
+title: McQueen Motors
+description: About the Builder
 ---
 
 ## Welcome to another page
